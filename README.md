@@ -11,7 +11,7 @@
 <p><em>💻My current position is System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
 I’m a Student at "RhinOps DevOps Bootcamp" from Sela group🎓📚 <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
 I am interesting in the following topics: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
-I like to explore new technologies and to work with projects which have scope for self learning and development. <br/>
+I like to explore new technologies and to work on projects which have scope for self learning and development. <br/>
 Excellent self learning skills 🦁.<br/>
 Excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
@@ -29,7 +29,7 @@ Team player👤.<br/>
 - MCSA Microsoft Certified Solutions Associate.
 
  
-- Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br/>
+- Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KerneliOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
 - Certificate  Cyber Security Defender from the National Cyber Security Authority👨‍💻. <br/>
 
