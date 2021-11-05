@@ -1,19 +1,19 @@
-## Hello ! Welcome to my profile
+## Hello World and Welcome to my Github Profile!
 
 <img style="border-radius: 0.25rem" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 
 
----
+# My name is Vladimir Ligum
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🏠 I live in Reshon Le Zion City, Israel. <br/>
-<p><em>💻My role is : System Administrator at <a href="https://www.sabancom.co.il/">Saban.</a> <br/>
-I’m Student at RhinOps DevOps Bootcamp🎓📚. <br/>
-I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations🚀. <br/>
-I like to discover new technologies and work for projects which have scope for self learning and developmen. <br/>
+<p><em>💻My current position is System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
+I’m a Student at "RhinOps DevOps Bootcamp" from Sela group🎓📚 <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
+I am interesting in the following topics: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
+I like to explore new technologies and to work with projects which have scope for self learning and development. <br/>
 Excellent self learning skills 🦁.<br/>
-Have excellent technical and communication skills⚡.<br/>
+Excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
 Team player👤.<br/>
  
@@ -38,7 +38,7 @@ Team player👤.<br/>
 </h2>
  
 <h2>Skill Set 💪</h2>
-These are some of the major technologies that I use or have worked on in the past:
+These are several technologies and tools I'm working with :
 </p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
