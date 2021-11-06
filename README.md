@@ -40,18 +40,18 @@ Team player👤.<br/>
 <h2>Skill Set 💪</h2>
 These are several technologies and tools I'm working with :
 </p>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<code><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<code><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
 <img alt="azure" src="https://user-images.githubusercontent.com/47865329/139946401-c430e531-d1e6-47e5-ae1d-0b8b49886f8f.png" />
 <img alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 </p>
-<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="powershell" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+<code><img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
+<code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="powershell" width="40" height="40" />
+<code><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
