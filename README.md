@@ -18,7 +18,7 @@ Great interpersonal skills🧞‍.<br/>
 Team player👤.<br/>
  
 
-[![facebook 
+[![facebook](https://www.facebook.com/vladimir.ligum)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ligum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladimir-ligum-73269580/)](https://www.linkedin.com/in/vladimir-ligum-73269580/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ligum?label=follow&style=social)](https://github.com/ligum)
 
