@@ -31,13 +31,12 @@ Team playe.<br/>
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
-- Certificate  Cyber Security Defender from the National Cyber Security Authority👨‍💻. <br/>
+- Certificate  Cyber Security Defender from the National Cyber Security Authority. <br/>
 
  <h2 align="center">
   <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
 </h2>
  
-<h2>Skill Set 💪</h2>
 These are several technologies and tools I'm working with :
 </p>
 <code><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
