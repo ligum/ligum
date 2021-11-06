@@ -8,8 +8,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🏠 I live in Reshon Le Zion City, Israel. <br/>
-<p><em>💻My current position is System Administrator at <a href="https://www.sabancom.co.il/">Saban Computings.</a> <br/>
-I’m a Student at <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.🎓📚</a> <br/>
+💼 My current position is System Administrator at <a href="https://www.sabancom.co.il/">Saban Computings.</a> <br/>
+🎓 I’m a Student at <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
 I am interesting in the following topics: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
 I like to explore new technologies and to work on projects which have scope for self learning and development. <br/>
 Excellent self learning skills 🦁.<br/>
