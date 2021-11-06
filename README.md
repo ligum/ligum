@@ -10,12 +10,12 @@
 🏠 I live in Reshon Le Zion City, Israel. <br/>
 💼 My current position is System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
 🎓 I’m a Student at <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
-I am interesting in the following topics: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
+I am interesting in topics such as: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
 I like to explore new technologies and to work on projects which have scope for self learning and development. <br/>
-Excellent self learning skills 🦁.<br/>
-Excellent technical and communication skills⚡.<br/>
-Great interpersonal skills🧞‍.<br/>
-Team player👤.<br/>
+Excellent self learning skills.<br/>
+Excellent technical and communication skills.<br/>
+Great interpersonal skill.<br/>
+Team playe.<br/>
  
 
 
