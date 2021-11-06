@@ -29,7 +29,7 @@ Team player👤.<br/>
 - MCSA Microsoft Certified Solutions Associate.
 
  
-- Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KerneliOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
+- Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
 - Certificate  Cyber Security Defender from the National Cyber Security Authority👨‍💻. <br/>
 
