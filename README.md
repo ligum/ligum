@@ -15,7 +15,7 @@ I like to explore new technologies and to work on projects which have scope for 
 Excellent self learning skills.<br/>
 Excellent technical and communication skills.<br/>
 Great interpersonal skill.<br/>
-Team playe.<br/>
+Team player.<br/>
  
 
 
