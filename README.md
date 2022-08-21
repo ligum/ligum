@@ -34,6 +34,12 @@ Team player.<br/>
 
 - Certificate  Cyber Security Defender from the National Cyber Security Authority. <br/>
 
+- DevOps Engineer Certificate from RhinOps DevOps Bootcamp by Sela Group
+
+- MCASEA Microsoft Certified Azure Security Engineer Associate
+
+- Cybersecurity Architect Expert Certificate from Sela 
+
  <h2 align="center">
   <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
 </h2>
