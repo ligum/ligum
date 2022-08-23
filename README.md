@@ -27,7 +27,7 @@ Team player.<br/>
 <h2>My Certificates🚀</h2>
 
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
-- MCSA Microsoft Certified Solutions Associate.
+- <a href="https://docs.microsoft.com/en-us/certifications/mcsa-windows-server-2016-certification/">MCSA</a> Microsoft Certified Solutions Associate.
 
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
@@ -38,7 +38,7 @@ Team player.<br/>
 
 - MCASEA Microsoft Certified Azure Security Engineer Associate
 
-- Cybersecurity Architect Expert Certificate from Sela 
+- Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft 
 
  <h2 align="center">
   <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
