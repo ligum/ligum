@@ -4,7 +4,7 @@
 
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="350">
+<img align="left" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="350">
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?raw=true" width="230"> -->
 🏠 I live in Reshon Le Zion City, Israel. <br/>
 💼 My current position is DevOps Engineer at <a href="http://www.selagroup.com/">Sela Group.</a> <br/> 
