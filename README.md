@@ -1,4 +1,4 @@
-'center' ## Hello World and Welcome to my Github Profile!
+## Hello World and Welcome to my Github Profile!
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
 
@@ -44,7 +44,7 @@ Team player.<br/>
 
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
 <h2 align="center">
-  <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
+  
  
 </h2>
  
