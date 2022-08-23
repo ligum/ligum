@@ -38,7 +38,7 @@ Team player.<br/>
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft 
 
 
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
+![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
 <h2 align="center">
   
  
