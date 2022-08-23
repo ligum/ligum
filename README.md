@@ -1,4 +1,4 @@
-## Hello World and Welcome to my Github Profile!
+'center' ## Hello World and Welcome to my Github Profile!
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
 
