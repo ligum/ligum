@@ -39,10 +39,10 @@ Team player.<br/>
 - <a href="https://docs.microsoft.com/en-us/certifications/azure-security-engineer/">MCASEA </a> Microsoft Certified Azure Security Engineer Associate
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft 
-
+<img style="border-radius: 0.25rem" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
  <h2 align="center">
   <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
- <img style="border-radius: 0.25rem" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
+ 
 </h2>
  
 These are several technologies and tools I'm working with :
