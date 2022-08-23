@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🏠 I live in Reshon Le Zion City, Israel. <br/>
-💼 My current position is DevOps Engineer at <a href="https://www.sela.co.il/">Sela Group.</a> <br/> 
+💼 My current position is DevOps Engineer at <a href="http://www.selagroup.com/">Sela Group.</a> <br/> 
 My previous position was System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
 🎓 I’ve recently graduated <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
 I am interesting in topics such as: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
