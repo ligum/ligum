@@ -40,7 +40,7 @@ Team player.<br/>
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft 
 
-<img align='left' 0.25rem" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
+<img align='left' 0.25rem" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400"/>
 
  <h2 align="center">
   <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
