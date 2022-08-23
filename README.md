@@ -1,7 +1,9 @@
-# Hello World and Welcome to Vladimir's Ligum Github Profile!!!
-<p align="center">
+
+<p align="center"> 
+
 
 </p>
+# Hello World and Welcome to Vladimir's Ligum Github Profile!!!
 
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
