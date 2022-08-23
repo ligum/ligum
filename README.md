@@ -43,10 +43,7 @@ Team player.<br/>
 
 
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
- <h2 align="center">
-  <img src="https://img.shields.io/badge/SKILLS-4169E1.svg?&logoColor=white" alt="skills" width="100"/>
- 
-</h2>
+
  
 These are several technologies and tools I'm working with :
 </p>
@@ -102,4 +99,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
