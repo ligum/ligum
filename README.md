@@ -1,5 +1,5 @@
 <p align="center">
-  <b># Hello World and Welcome to Vladimir's Ligum Github Profile!!!</b><br>
+  # <b>Hello World and Welcome to Vladimir's Ligum Github Profile!!!</b><br>
   <br><br>
 </p>
 
