@@ -34,7 +34,7 @@ Team player.<br/>
 
 - Cyber Security Defender Certificate by <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">Israel National Cyber Directorate. </a>
 
-- DevOps Engineer Certificate from RhinOps DevOps Bootcamp by Sela Group
+- DevOps Engineer Certificate from <a href="https://rhinops.io/">RhinOps DevOps Bootcamp </a> by <a href="https://www.sela.co.il/">Sela Group. </a> 
 
 - <a href="https://docs.microsoft.com/en-us/certifications/azure-security-engineer/">MCASEA </a> Microsoft Certified Azure Security Engineer Associate
 
