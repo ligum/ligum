@@ -45,6 +45,8 @@ Team player.<br/>
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
 
  
+</h2>
+ 
 These are several technologies and tools I'm working with :
 </p>
 <code><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
