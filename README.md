@@ -10,7 +10,7 @@
 🏠 I live in Reshon Le Zion City, Israel. <br/>
 💼 My current position is DevOps Engineer at <a href="https://www.sela.co.il/">Sela Group.</a> <br/> 
 My previous position was System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
-🎓 I’ve graduated <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
+🎓 I’ve recently graduated <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela Group.</a> <br/>
 I am interesting in topics such as: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
 I like to explore new technologies and to work on projects which have scope for self learning and development. <br/>
 Excellent self learning skills.<br/>
@@ -32,7 +32,7 @@ Team player.<br/>
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
-- Certificate  Cyber Security Defender from the National Cyber Security Authority. <br/>
+- Cyber Security Defender Certificate by <a href="https://www.gov.il/he/departments/israel_national_cyber_directorate/govil-landing-page">National Cyber Security Authority. </a> <br/>
 
 - DevOps Engineer Certificate from RhinOps DevOps Bootcamp by Sela Group
 
