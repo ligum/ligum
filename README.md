@@ -32,7 +32,7 @@ Team player.<br/>
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
-- Cyber Security Defender Certificate by <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">National Cyber Security Authority. </a>
+- Cyber Security Defender Certificate by <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">Israel National Cyber Directorate. </a>
 
 - DevOps Engineer Certificate from RhinOps DevOps Bootcamp by Sela Group
 
