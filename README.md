@@ -1,6 +1,5 @@
 ## Hello World and Welcome to my Github Profile!
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
-<img style="border-radius: 0.25rem" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 
 
 # My name is Vladimir Ligum
@@ -103,3 +102,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
