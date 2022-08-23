@@ -36,7 +36,7 @@ Team player.<br/>
 
 - DevOps Engineer Certificate from RhinOps DevOps Bootcamp by Sela Group
 
-- MCASEA Microsoft Certified Azure Security Engineer Associate
+- <a href="https://docs.microsoft.com/en-us/certifications/azure-security-engineer/">MCASEA </a> Microsoft Certified Azure Security Engineer Associate
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft 
 
