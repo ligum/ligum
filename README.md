@@ -20,13 +20,12 @@ Team player.<br/>
 
  
 <h2>My Certificates🚀</h2>
-
 <img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="352"/>
+
 
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
 - <a href="https://docs.microsoft.com/en-us/certifications/mcsa-windows-server-2016-certification/">MCSA</a> Microsoft Certified Solutions Associate.
 
- 
 - Certified Hands-on Cyber Security Specialist (CHCSS) <a href="https://www.kernelios.com/">KERNELiOS college. </a> <br/> <a href="https://www.thoughtworks.com"></a>
 
 - Cyber Security Defender Certificate by <a href="https://www.gov.il/en/departments/israel_national_cyber_directorate/govil-landing-page">Israel National Cyber Directorate. </a>
