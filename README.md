@@ -10,7 +10,7 @@
 💼 My current position is DevOps Engineer at <a href="http://www.selagroup.com/">Sela Group.</a> <br/> 
 My previous position was System Administrator at <a href="https://www.sabancom.co.il/">Saban Computing.</a> <br/>
 🎓 I’ve recently graduated <a href="https://rhinops.io/"> "RhinOps DevOps Bootcamp"</a> by <a href="https://www.sela.co.il/">Sela College.</a> <br/>
-I am interesting in topics such as: Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, DevOps, Automations and many more🚀. <br/>
+I am interesting in topics such as: DevOps, MLOps, DevSecOps, AI, Networking, Cloud, System, Cyber Security, Ethical hacking , Pentesting, Automations and many more🚀. <br/>
 I like to explore new technologies and to work on projects which have scope for self learning and development. <br/>
 Excellent self learning skills.<br/>
 Excellent technical and communication skills.<br/>
