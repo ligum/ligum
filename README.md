@@ -46,7 +46,7 @@ Team player.<br/>
 </h2>
  
 These are several technologies and tools I'm working with :
-</p>
+<p>
 <code><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /><code><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" /><img alt="azure" src="https://user-images.githubusercontent.com/47865329/139946401-c430e531-d1e6-47e5-ae1d-0b8b49886f8f.png" /><img alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>                                                                                                                                             
 </p>
