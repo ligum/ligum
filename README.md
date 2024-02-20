@@ -51,19 +51,15 @@ These are several technologies and tools I'm working with :
 </p>                                                                                                                                             
 </p>
 <code><img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" /><code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><code><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="powershell" width="40" height="40" /><code><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /><code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code><a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a><a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a><a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a><a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a><a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a><a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a><code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code><code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-</p>
-
-                                                                                                                 
+</p>                                                                                                                
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ligum&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
-<p>
-                                                                                                                                                                                                                       
+<p>                                                                                                                                                                                                                      
 ---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ligum/count.svg" />
 </p>        
-
 <!--
 **ligum/ligum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
