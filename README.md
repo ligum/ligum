@@ -38,10 +38,10 @@ Team player.<br/>
 
 
 ![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
-<h2 align="center">
+<h align="center">
   
  
-</h2>
+</h>
  
 These are several technologies and tools I'm working with :
 </p>
@@ -65,8 +65,8 @@ These are several technologies and tools I'm working with :
 <p align="center">                                                                                                                                                                                                                       
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lihaybs/count.svg" />
-<p>
+  <img src="https://profile-counter.glitch.me/ligum/count.svg" />
+</p>
 
 
 
