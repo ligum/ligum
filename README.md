@@ -59,12 +59,12 @@ Team player.<br/>
   <a href="https://ubuntu.com/" target="blank"><img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
   <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a>
   <a href="https://azuredevopslabs.com/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
+  <a href="https://terraform.io/" target="blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" alt="terraform"/></a>
+ 
 </p>
 
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![microsoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![vscode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
