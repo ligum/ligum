@@ -57,6 +57,7 @@ Team player.<br/>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/></a>
   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" /></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+  <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a> 
 </p>
 
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
