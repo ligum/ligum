@@ -53,11 +53,10 @@ Team player.<br/>
   <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
   <a href="https://github.com/ligum" target="blank"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://www.jenkins.io" target="blank"><img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/></a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="jenkins"/></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
   <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a>
-  <a href="https://azuredevopslabs.com/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
   <a href="https://terraform.io/" target="blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" alt="terraform"/></a>
   <a href="https://mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a> 
 </p>
