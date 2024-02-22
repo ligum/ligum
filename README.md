@@ -23,7 +23,7 @@ Team player.<br/>
 </p>
 
  
-<h2>My Certificates</h2>
+<h2>🧠My Certificates</h2>
 <img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="352"/>
 
 
@@ -40,7 +40,7 @@ Team player.<br/>
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft
 
-<h2>My Toolbox</h2>
+<h2>🛠️My Toolbox</h2>
 <p align="center">
   <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="c"/></a>
   <a href="https://nodejs.org" target="blank"><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
