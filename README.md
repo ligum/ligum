@@ -15,7 +15,6 @@ Excellent technical and communication skills.<br/>
 Great interpersonal skill.<br/>
 Team player.<br/>
  
-
 <p align="right">
   <a href="mailto:ligum.vladimir@gmail.com?subject=Olá%20Vladimir%20Ligum"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/vladimir.ligum"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -24,7 +23,7 @@ Team player.<br/>
 </p>
 
  
-<h2>My Certificates🚀</h2>
+<h2>My Certificates</h2>
 <img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="352"/>
 
 
@@ -41,7 +40,7 @@ Team player.<br/>
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft
 
-<h3 align="center">Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 <p align="center">
   <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="c"/></a>
   <a href="https://nodejs.org" target="blank"><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
