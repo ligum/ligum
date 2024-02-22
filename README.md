@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=Hello+World;Welcome+to+Vladimir+Ligum's+Github+Profile!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&size=40&width=1000&height=90&lines=Hello+World+and+Welcome+to;Vladimir+Ligum's+Github+Profile!!!)](https://git.io/typing-svg)
 
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
@@ -40,7 +40,7 @@ Team player.<br/>
 
 - Cybersecurity Architect Expert Certificate from Sela Group in collaboration with Microsoft
 
-<h2>Languages and Tools</h2>
+<h2>My Toolbox</h2>
 <p align="center">
   <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="c"/></a>
   <a href="https://nodejs.org" target="blank"><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
