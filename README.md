@@ -59,7 +59,15 @@ Team player.<br/>
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
   <a href="https://terraform.io/" target="blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" alt="terraform"/></a>
   <a href="https://mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a> 
+  <a href="https://javascript.com/" target="blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
+  <a href="https://html5.com/" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
+  <a href="https://css3.com/" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>  
 </p>
+
+
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
 <h align="center">
