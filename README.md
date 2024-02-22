@@ -46,7 +46,7 @@ Team player.<br/>
   <a href="https://nodejs.org" target="blank"><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://kubernetes.io" target="blank"><img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></a>
   <a href="https://www.nginx.com" target="blank"><img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
-  <a href="https://www.postgresql.org" target="blank"><img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
+  <a href="https://www.postgresql.org" target="blank"><img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="blank"><img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="heroku"/></a>
