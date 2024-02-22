@@ -48,32 +48,23 @@ Team player.<br/>
   <a href="https://www.nginx.com" target="blank"><img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
   <a href="https://www.postgresql.org" target="blank"><img src="https://img.shields.io/badge/postgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
   <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/docker-2CA5E0.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="blank"><img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/></a>
+  <a href="https://azure.microsoft.com/en-in/" target="blank"><img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="heroku"/></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
   <a href="https://github.com/Shossi" target="blank"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://www.jenkins.io" target="blank"><img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/></a>
   <a href="https://azure.microsoft.com/en-us/services/devops/" target="blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="jenkins"/></a>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/></a>
-  <a href="https://www.jetbrains.com/" target="blank"><img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" /></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
   <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a>
   <a href="https://azuredevopslabs.com/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
   <a href="https://terraform.io/" target="blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" alt="terraform"/></a>
- 
+  <a href="https://mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a> 
 </p>
-
-![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![microsoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
 
 ![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
 <h align="center">
-  
  
-                                                                                                              
-       
-
  <table style="width:100%" align="center">
     <tr>
         <td>
@@ -89,17 +80,6 @@ Team player.<br/>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ligum/count.svg" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
