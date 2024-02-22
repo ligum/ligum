@@ -18,10 +18,10 @@ Team player.<br/>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ligum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladimir-ligum-73269580/)](https://www.linkedin.com/in/vladimir-ligum-73269580/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ligum?label=follow&style=social)](https://github.com/ligum)
 <p align="right">
-  <a href="mailto:ligum.vladimir@gmail.com?subject=Olá%20Vladimir%20Ligum"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/vladimir.ligum"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vladimir-ligum-73269580"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/ligum"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ligum.vladimir@gmail.com?subject=Olá%20Vladimir%20Ligum"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/vladimir.ligum"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vladimir-ligum-73269580"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.github.com/ligum"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
  
