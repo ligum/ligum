@@ -46,8 +46,8 @@ Team player.<br/>
   <a href="https://nodejs.org" target="blank"><img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
   <a href="https://kubernetes.io" target="blank"><img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/></a>
   <a href="https://www.nginx.com" target="blank"><img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/></a>
-  <a href="https://www.postgresql.org" target="blank"><img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
-  <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
+  <a href="https://www.postgresql.org" target="blank"><img src="https://img.shields.io/badge/postgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/></a>
+  <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/docker-2CA5E0.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="blank"><img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/></a>
   <a href="https://aws.amazon.com/" target="blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="heroku"/></a>
   <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
@@ -57,21 +57,15 @@ Team player.<br/>
   <a href="https://code.visualstudio.com/" target="blank"><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/></a>
   <a href="https://www.jetbrains.com/" target="blank"><img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" /></a>
   <a href="https://ubuntu.com/" target="blank"><img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
-  <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a> 
+  <a href="https://ansible.com/" target="blank"><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/></a>
+  <a href="https://azuredevopslabs.com/" target="blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure devops"/></a>
 </p>
 
 ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![microsoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![microsoftDevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![vscode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white)
-![linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 
 ![banner](https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png)
 <h align="center">
