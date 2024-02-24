@@ -77,7 +77,16 @@ Team player.<br/>
         </td>
     </tr>
 </table>
-<p align="center">                                                                                                                                                                                                                       
+
+<p align="center">
+  <details>
+  <summary><b>:gear: &nbsp;Other GitHub Stats</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ligum&hide_border=true&theme=nightowl" />
+    </p>
+  </details>
+  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ligum/count.svg" />
