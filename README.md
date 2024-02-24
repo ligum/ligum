@@ -64,10 +64,9 @@ Team player.<br/>
   <a href="https://css3.com/" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>  
 </p>
 
-<details>
+<details align="center">
   <summary><b>:computer: &nbsp;Other Useful Stuff</b></summary>
   
-
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9)&nbsp;
