@@ -66,6 +66,7 @@ Team player.<br/>
 
 <details align="center">
   <summary><b>:computer: &nbsp;Other Useful Stuff</b></summary>
+  <br/>
   
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)&nbsp;
@@ -93,7 +94,7 @@ Team player.<br/>
 </table>
 
 <p align="center">
-  <details>
+  <details align="center">
   <summary><b>:gear: &nbsp;Other GitHub Stats</b></summary>
   <br/>
     <p align="center">
