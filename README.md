@@ -75,6 +75,7 @@ Team player.<br/>
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&labelColor=000000)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
+![Gitlab](https://img.shields.io/badge/Gitlab-7B42BC.svg?&style=flat&logo=Gitlab&logoColor=white)&nbsp;
 
 </details>
 
