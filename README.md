@@ -67,15 +67,16 @@ Team player.<br/>
 <details align="center">
   <summary><b>:computer: &nbsp;Other Useful Stuff</b></summary>
   <br/>
+
   
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9)&nbsp;
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flate&logo=Kibana&logoColor=whit)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&labelColor=000000)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)&nbsp;
 ![Gitlab](https://img.shields.io/badge/Gitlab-7B42BC.svg?&style=flat&logo=Gitlab&logoColor=white)&nbsp;
+![Vagrant](https://img.shields.io/badge/Vagrant-326CE5?style=flat-square&logo=Vagrant&logoColor=black)&nbsp;
 
 </details>
 
