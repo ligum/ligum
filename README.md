@@ -74,10 +74,10 @@ Team player.<br/>
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flate&logo=Kibana&logoColor=white)
 <a href="https://prometheus.io/" target="blank"><img src="https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&labelColor=000000"></a>
+<a href="https://grafana.com/" target="blank"><img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9"></a>
 <a href="https://jetbrains.com/pycharm" target="blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white"></a>
 <a href="https://gitlab.com/" target="blank"><img src="https://img.shields.io/badge/Gitlab-7B42BC.svg?&style=flat&logo=Gitlab&logoColor=orange"></a>
 <a href="https://vagrantup.com/" target="blank"><img src="https://img.shields.io/badge/Vagrant-326CE5?style=flat&logo=Vagrant&logoColor=white"></a>
-<a href="https://grafana.com/" target="blank"><img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9"></a>
 <a href="https://stackoverflow.com/" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-F2F4F9?style=flat&logo=Stackoverflow&logoColor=orange"></a>
 
 
