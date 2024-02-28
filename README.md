@@ -78,7 +78,7 @@ Team player.<br/>
 <a href="https://gitlab.com/" target="blank"><img src="https://img.shields.io/badge/Gitlab-7B42BC.svg?&style=flat&logo=Gitlab&logoColor=orange"></a>
 <a href="https://vagrantup.com/" target="blank"><img src="https://img.shields.io/badge/Vagrant-326CE5?style=flat&logo=Vagrant&logoColor=white"></a>
 <a href="https://grafana.com/" target="blank"><img src="https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9"></a>
-<a href="https://stackoverflow.com/" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-000000?style=flat&logo=Stackoverflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/" target="blank"><img src="https://img.shields.io/badge/Stackoverflow-F2F4F9?style=flat&logo=Stackoverflow&logoColor=orange"></a>
 
 
 </details>
