@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&duration=3000&center=true&size=40&width=500&height=90&lines=Hello+World+and+Welcome+to;Vladimir+Ligum's+Github+Profile!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&duration=3000&center=true&size=40&width=1000&height=90&lines=Hello+World+and+Welcome+to;Vladimir+Ligum's+Github+Profile!!!)](https://git.io/typing-svg)
 
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
