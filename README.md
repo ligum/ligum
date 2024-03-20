@@ -114,7 +114,7 @@ Team player.<br/>
 
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/DHANOLA/DHANOLA/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg" />
 </p>
 <!--
 **ligum/ligum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
